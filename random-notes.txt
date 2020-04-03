@@ -13,3 +13,10 @@ random notes
     - multiple containers in a pod
         - same as above just specify -c command for specific container
         - pod designt patterns (side car proxy )
+- schedeule certain pods on certain nodes
+    - example for gpu resources
+        - use nodeSelector
+- labels
+    - use -l and can also query based on a set of pods that meet a condition
+    - example k get pods -l 'environment in (backend)'
+    - example k get pods -l app=production
