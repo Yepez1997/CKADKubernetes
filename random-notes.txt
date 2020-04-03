@@ -7,3 +7,9 @@ random notes
 - same goes for delete k delete (specify resource)
 - also take a look at cron jobs and regular jobs in kubernetes
 - previosly failed pod logs -> kubectl logs nginx -p
+- ways to go into a pod / container
+    - k exec -it pod -- /bin/bash
+    - k exec -it pod bash
+    - multiple containers in a pod
+        - same as above just specify -c command for specific container
+        - pod designt patterns (side car proxy )
