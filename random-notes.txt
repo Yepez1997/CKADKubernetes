@@ -1,0 +1,6 @@
+random notes
+- k get logs -> always check pod ns or any resource logs
+- make sure im in the right context k view config
+- useful k get resource, may need to specify ns
+- need to know resource quotas, volume, replica sets, daemon sets, pods, stateful sets
+- get pods for all namespaces - k get pods --all-namespaces
