@@ -21,3 +21,6 @@ random notes
     - example k get pods -l 'environment in (backend)'
     - example k get pods -l app=production
     - to attach labels -> use -l
+- show all labels for a pod
+    - use --show-labels
+    - to overwrite a label use k label resource ... --overwrite
