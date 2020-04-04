@@ -1,0 +1,17 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  creationTimestamp: null
+  labels:
+    run: nvidia-node
+  name: nvidia-node
+spec:
+  containers:
+  - image: nginx
+    name: nvidia-node
+    resources: {}
+  dnsPolicy: ClusterFirst
+  restartPolicy: Never
+  nodeSelector:
+     accelerato:nvidia-tesla-p100
+status: {}
