@@ -24,3 +24,15 @@ random notes
 - show all labels for a pod
     - use --show-labels
     - to overwrite a label use k label resource ... --overwrite
+- grep -i 'domskdlfsdk' is useufl in describe
+- roll back use undo - to see history use history
+- always helpful to use --help
+- scale the number of pods in the cluster
+    - should either manually update the file
+    - or k scale deploy name  --replicas=number
+- hpa
+    - create a horizontal auto scaler
+        - in other words based on certain constrains such as cpu usage
+            - control the number of pods that are created
+- set image to change the image deployment hmmm
+- delete all the resources for hpa and deploy called nginx ->  k delete deploy,hpa nginx
