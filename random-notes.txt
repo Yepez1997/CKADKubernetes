@@ -46,3 +46,12 @@ random notes
         - job.spec.completions = number of time the task should be complete
     - cron jobs have a set scedeule - know some formats will help
     - generally the '--' means to run a command inside a pod / container
+    - cron jobs
+        - example
+            - k create cronjob test-job --iamge=busybox --schedule="*/1 * * * *" -- 'some command'
+        - cronjobs run based on cron schedule
+- now configs - includes config maps, secrets and service accounts ...
+- in other words anything related to configurations
+- configmaps
+    - three main options --from-literal, --from-env-file, --from-file
+
