@@ -54,4 +54,10 @@ random notes
 - in other words anything related to configurations
 - configmaps
     - three main options --from-literal, --from-env-file, --from-file
-
+- to load env follow spec.containers.env
+- to load just one env variable - use env
+- to load all env from one cm - use envFrom
+- load cm to volume
+    1. specify cm to volume in spec.volumes
+    2. inside spec.volumes specify configMap
+    3. inside spec.container specofy volumeMounts with name of volume and mountPath
