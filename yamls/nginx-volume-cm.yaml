@@ -10,6 +10,13 @@ spec:
   - image: nginx
     name: nginx-volume-cm
     resources: {}
-  dnsPolicy: ClusterFirst
-  restartPolicy: Never
+    volumeMounts:
+    - name: config-cm 
+      mountPath: /etc/lala
+ dnsPolicy: ClusterFirst
+ restartPolicy: Never
+ volumes:
+  - name: config-cm 
+    configMap:
+      name: cm-volume
 status: {}
