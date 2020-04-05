@@ -36,3 +36,13 @@ random notes
             - control the number of pods that are created
 - set image to change the image deployment hmmm
 - delete all the resources for hpa and deploy called nginx ->  k delete deploy,hpa nginx
+- jobs and cron jobs
+    - regular jobs don't have a set schedule
+        - example
+            -  k create job perl-job --image=perl -- "perl -Mbignum=bpi -wle 'print bpi(2000)'"
+        - use activeDeadlineSeconds: ...
+            to terminate a task if it takes more than ...
+            almost similar to sla
+        - job.spec.completions = number of time the task should be complete
+    - cron jobs have a set scedeule - know some formats will help
+    - generally the '--' means to run a command inside a pod / container
