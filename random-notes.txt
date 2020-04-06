@@ -61,3 +61,8 @@ random notes
     1. specify cm to volume in spec.volumes
     2. inside spec.volumes specify configMap
     3. inside spec.container specofy volumeMounts with name of volume and mountPath
+- create secrete similar to create cm
+- service account
+    - create sa user
+    - spec.serviceAccountName -> user
+    - k get sa --all-namespaces (get all sa from all namespaces)
