@@ -6,8 +6,8 @@ kubernetes application developer study plan
 [Kubernetes Documentation](https://kubernetes.io/docs/concepts/)
 
 
-Already read this entire book -> [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action)
-Already read this entire book -> [Kubernetes Up And Running](https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1492046531/ref=pd_sbs_14_t_0/130-8772825-8850242?_encoding=UTF8&pd_rd_i=1492046531&pd_rd_r=91e8e7d3-bf20-498e-8d98-04c168fa2425&pd_rd_w=fZLAs&pd_rd_wg=3ARfk&pf_rd_p=5cfcfe89-300f-47d2-b1ad-a4e27203a02a&pf_rd_r=XG60SXAJ9Z8JWGNNK9QM&psc=1&refRID=XG60SXAJ9Z8JWGNNK9QM)
+* Already read this entire book -> [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action)
+* Already read this entire book -> [Kubernetes Up And Running](https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1492046531/ref=pd_sbs_14_t_0/130-8772825-8850242?_encoding=UTF8&pd_rd_i=1492046531&pd_rd_r=91e8e7d3-bf20-498e-8d98-04c168fa2425&pd_rd_w=fZLAs&pd_rd_wg=3ARfk&pf_rd_p=5cfcfe89-300f-47d2-b1ad-a4e27203a02a&pf_rd_r=XG60SXAJ9Z8JWGNNK9QM&psc=1&refRID=XG60SXAJ9Z8JWGNNK9QM)
 
 Priotize deployment sets, debugging, logging, namespaces, volumes, pvcs 
 
