@@ -32,7 +32,7 @@ Priotize deployment sets, debugging, logging, namespaces, volumes, pvcs
 # WK 8 (Exam week)
 
 
-### General Concepts I feel comfortable with and using in a cluster ...
+### General Concepts I feel comfortable with using in a cluster ...
 - [x] Pod Design
 - [x] Labels, and Annotations 
 - [x] ConfigMaps, Secrets 
@@ -48,4 +48,24 @@ Priotize deployment sets, debugging, logging, namespaces, volumes, pvcs
 - [ ] Liveness and Readiness Probes
 
 ### 19 day more concise plan 
+- [ ] 05/07 Observability + Services Questions 
+- [ ] 05/08 State + Configuration Questions 
+- [ ] 05/09 Core Concepts + Multi Container Pods + Pod Design Questions 
+- [ ] 05/10 Configuration + Observability + Services + State Questions 
+- [ ] 05/11 Mock Practice Exam (2 hour) + Docs
+- [ ] 05/12 Mock Practice Exam (2 hour) + Docs 
+- [ ] 05/13 Core Concepts + Multi Container Pods + Pod Design Questions
+- [ ] 05/14 Configuration + Observability + Services + State Questions 
+- [ ] 05/15 Mock Practice Exam (2 hour) + Docs 
+- [ ] 05/16 Core Concepts + Multi Container Pods + Pod Design Questions
+- [ ] 05/17 Configuration + Observability + Services + State Questions 
+- [ ] 05/18 Mock Exam from Golden Kubernetes course ... (2 hour)
+- [ ] 05/19 redo Mock Exam from Golden Kubernetes course ... (2 hour)
+- [ ] 05/20 Mock Exam from Golden Kubernetes course ... (2 hour)
+- [ ] 05/21 Read Docs + YAMLS 
+- [ ] 05/22 Mock Exam from Golden Kubernetes course ... (2 hour)
+- [ ] 05/23 Read Docs + YAMLS 
+- [ ] 05/24 Practice Exam
+ 
+
 
