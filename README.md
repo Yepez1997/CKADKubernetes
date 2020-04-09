@@ -26,9 +26,10 @@ Priotize deployment sets, debugging, logging, namespaces, volumes, pvcs
 - [ ] More Logging + Debugging 
 - [ ] Services (Cluser IP, NodePort)
 - [ ] Liveness and Readiness Probes
+- [ ] Network Policies
 
 ### 19 day more concise plan 
-- [ ] 05/07 Observability + Services Questions 
+- [x] 05/07 Observability + Services Questions 
 - [ ] 05/08 State + Configuration Questions 
 - [ ] 05/09 Core Concepts + Multi Container Pods + Pod Design Questions 
 - [ ] 05/10 Configuration + Observability + Services + State Questions 
