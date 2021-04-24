@@ -22,30 +22,30 @@ Priotize deployment sets, debugging, logging, namespaces, volumes, pvcs
 - [x] Daemon Sets 
 
 ### Need more practice on (but I know the concepts)
-- [ ] PVC
-- [ ] More Logging + Debugging 
-- [ ] Services (Cluser IP, NodePort)
-- [ ] Liveness and Readiness Probes
-- [ ] Network Policies
+- [x] PVC
+- [x] More Logging + Debugging 
+- [x] Services (Cluser IP, NodePort)
+- [x] Liveness and Readiness Probes
+- [x] Network Policies
 
 ### 19 day more concise plan 
 - [x] 05/07 Observability + Services Questions 
-- [ ] 05/08 State + Configuration Questions 
-- [ ] 05/09 Core Concepts + Multi Container Pods + Pod Design Questions 
-- [ ] 05/10 Configuration + Observability + Services + State Questions 
-- [ ] 05/11 Mock Practice Exam (2 hour) + Docs
-- [ ] 05/12 Mock Practice Exam (2 hour) + Docs 
-- [ ] 05/13 Core Concepts + Multi Container Pods + Pod Design Questions
-- [ ] 05/14 Configuration + Observability + Services + State Questions 
-- [ ] 05/15 Mock Practice Exam (2 hour) + Docs 
-- [ ] 05/16 Core Concepts + Multi Container Pods + Pod Design Questions
-- [ ] 05/17 Configuration + Observability + Services + State Questions 
-- [ ] 05/18 Mock Exam from Golden Kubernetes course ... (2 hour)
-- [ ] 05/19 redo Mock Exam from Golden Kubernetes course ... (2 hour)
-- [ ] 05/20 Mock Exam from Golden Kubernetes course ... (2 hour)
-- [ ] 05/21 Read Docs + YAMLS 
-- [ ] 05/22 Mock Exam from Golden Kubernetes course ... (2 hour)
-- [ ] 05/23 Read Docs + YAMLS 
+- [x] 05/08 State + Configuration Questions 
+- [x] 05/09 Core Concepts + Multi Container Pods + Pod Design Questions 
+- [x] 05/10 Configuration + Observability + Services + State Questions 
+- [x] 05/11 Mock Practice Exam (2 hour) + Docs
+- [x] 05/12 Mock Practice Exam (2 hour) + Docs 
+- [x] 05/13 Core Concepts + Multi Container Pods + Pod Design Questions
+- [x] 05/14 Configuration + Observability + Services + State Questions 
+- [x] 05/15 Mock Practice Exam (2 hour) + Docs 
+- [x] 05/16 Core Concepts + Multi Container Pods + Pod Design Questions
+- [x] 05/17 Configuration + Observability + Services + State Questions 
+- [x] 05/18 Mock Exam from Golden Kubernetes course ... (2 hour)
+- [x] 05/19 redo Mock Exam from Golden Kubernetes course ... (2 hour)
+- [x] 05/20 Mock Exam from Golden Kubernetes course ... (2 hour)
+- [x] 05/21 Read Docs + YAMLS 
+- [x] 05/22 Mock Exam from Golden Kubernetes course ... (2 hour)
+- [x] 05/23 Read Docs + YAMLS 
 - [ ] 05/24 Practice Exam
  
 
